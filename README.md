@@ -1,16 +1,16 @@
-# [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/)
+# [React Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/api-nodejs/react/)
 
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout.
-The **React** Design is crafted by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200) on top of `MUI` Library.
+Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://app-generator.dev/product/soft-ui-dashboard/api-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout.
+The **React** Design is crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/) on top of `MUI` Library.
 
-- 👉 [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) - product page
+- 👉 [React Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/api-nodejs/react/) - product page
 - 👉 [React Soft Dashboard](https://node-js-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo 
 
 <br />
 
 ## Features
 
-- ✅ Innovative **[Soft UI Design](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)** from `Creative-Tim`
+- ✅ Innovative **[Soft UI Design](https://app-generator.dev/product/soft-ui-design/)** from `Creative-Tim`
 - ✅ React, Redux, Redux-persist
 - ✅ Authentication: `JWT Token`
 - 🆕 `OAuth` for **Github**
@@ -177,4 +177,4 @@ The API server will start using the `PORT` specified in `.env` file (default 500
 <br /> 
 
 ---
-[React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) - Provided by **[AppSeed](https://appseed.us/app-generator)**.
+[React Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/api-nodejs/react/) - Provided by **[App-Generator](https://app-generator.dev/)**.
