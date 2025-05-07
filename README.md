@@ -10,7 +10,7 @@ The **React** Design is crafted by [Creative-Tim](https://app-generator.dev/agen
 
 ## Features
 
-- ✅ Innovative **[Soft UI Design](https://app-generator.dev/product/soft-ui-design/)** from `Creative-Tim`
+- ✅ Innovative **[Soft UI Design](https://app-generator.dev/product/soft-ui-design/)** from **[Creative-Tim](https://app-generator.dev/agency/creative-tim/)**
 - ✅ React, Redux, Redux-persist
 - ✅ Authentication: `JWT Token`
 - 🆕 `OAuth` for **Github**
